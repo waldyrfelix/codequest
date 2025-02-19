@@ -6,7 +6,7 @@ def test_valid_parentheses_1():
 
 
 def test_valid_parentheses_2():
-    return validParentheses("{[(])}") == False
+    assert validParentheses("{[(])}") == False
 
 
 def test_valid_parentheses_3():
