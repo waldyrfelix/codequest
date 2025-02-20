@@ -1,16 +1,16 @@
 """
 Problem
-Given an array of integers nums and a non-negative integer targetDiff, 
+Given an array of integers nums and a non-negative integer targetDiff,
 determine if there are two distinct elements in nums such that the absolute difference between them is targetDiff.
 
 Return true if at least one such pair exists, otherwise return false.
 
 Examples
-hasSpecificDifference([8, 16, 15, 40], 8) 
+hasSpecificDifference([8, 16, 15, 40], 8)
 // returns true
 // 16 - 8 = 8
- 
-hasSpecificDifference([1, 2, 3], 0) 
+
+hasSpecificDifference([1, 2, 3], 0)
 // returns false
 // There is no pair in the array that have a difference of 0.
 """

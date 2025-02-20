@@ -1,17 +1,18 @@
 """
 Problem
-Given a positive integer num, return true if num is a power of three, and false otherwise.
+Given a positive integer num, return true
+if num is a power of three, and false otherwise.
 
 Examples
-isPowerOfThree(81) 
+isPowerOfThree(81)
 // returns true
 // 81 is a power of three (3^4)
- 
-isPowerOfThree(9) 
+
+isPowerOfThree(9)
 // returns true
 // 9 is a power of three (3^2)
- 
-isPowerOfThree(2) 
+
+isPowerOfThree(2)
 // returns false
 // 2 is not a power of three
 """

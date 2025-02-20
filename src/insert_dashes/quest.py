@@ -5,7 +5,7 @@ Given a string s and an array of integers indices, insert dashes ('-') at the sp
 Examples
 insertDashes("HelloWorld", [5])
 // returns "Hello-World"
- 
+
 insertDashes("AddDashesHere", [3, 9])
 // returns "Add-Dashes-Here"
 
